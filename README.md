@@ -51,9 +51,9 @@ Welcome to my digital workspace! I specialize in bridging high-level **AI algori
   📊 **GitHub Stats**
 
   <!-- Replace 'YOUR_GITHUB_USERNAME' with your actual username below -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeCoreLabs&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCoreLabs&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
 
